@@ -1,0 +1,13 @@
+name: WCAvoidance
+main: com.github.lyokofirelyte.WCAvoidance.AVMain
+author: lyokofirelyte
+prefix: AV
+version: 1
+
+permissions:
+    av.admin:
+        description: Use admin stuff.
+        default: op
+    av.join:
+        description: Join a game.
+        default: op
